@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>309635873391-a4dtoq85u23in60ua4r4r8q2pqfg0u2q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.309635873391-a4dtoq85u23in60ua4r4r8q2pqfg0u2q</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAmELzaSPF1elE2FWdZA_0Z3mIjz39QsQQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>309635873391</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ascemme.GameQuese</string>
+	<key>PROJECT_ID</key>
+	<string>gamequese</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gamequese.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:309635873391:ios:7b84dbafa27537d4c6ab9a</string>
+	<key>DATABASE_URL</key>
+	<string>https://gamequese-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
